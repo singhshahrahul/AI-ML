@@ -13,3 +13,6 @@ resnet_url = "https://tfhub.dev/google/imagenet/resnet_v2_50/feature_vector/4"
 
 # Original: EfficientNetB0 feature vector (version 1)
 efficientnet_url = "https://tfhub.dev/tensorflow/efficientnet/b0/feature-vector/1"
+
+# New: EfficientNetB0 feature vector (version 2)
+efficientnet_url = "https://tfhub.dev/google/imagenet/efficientnet_v2_imagenet1k_b0/feature_vector/2"
